@@ -13,7 +13,7 @@ TOKEN = 'TELEGRAM_TOKEN_HERE'
 BIST100_SYMBOLS = [
     "AEFES.IS", "AGHOL.IS", "AKBNK.IS", "AKCNS.IS", "AKGRT.IS", "AKSA.IS", "AKSEN.IS", "ALGYO.IS", "ARCLK.IS", "ASELS.IS", "AYGAZ.IS", "BIMAS.IS", "BRISA.IS", "CEMTS.IS", "DEVA.IS", "DOHOL.IS", "ECILC.IS", "ENJSA.IS", "ENKAI.IS", "EREGL.IS", "FROTO.IS", "GARAN.IS", "GUBRF.IS", "HEKTS.IS", "ISCTR.IS", "ISGYO.IS", "IZDMC.IS", "KARSN.IS", "KCHOL.IS", "KORDS.IS", "KOZAA.IS", "KOZAL.IS", "MPARK.IS", "MGROS.IS", "ODAS.IS", "OTKAR.IS", "PETKM.IS", "PGSUS.IS", "SAHOL.IS", "SASA.IS", "SISE.IS", "SOKM.IS", "TAVHL.IS", "TCELL.IS", "THYAO.IS", "TKFEN.IS", "TOASO.IS", "TRKCM.IS", "TTKOM.IS", "TUPRS.IS", "ULKER.IS", "VAKBN.IS", "VESTL.IS", "YATAS.IS", "YKBNK.IS", "ZOREN.IS"
 ]
-UYARI_MESAJI = "🚨 YATIRIM TAVSİYESİ DEĞİLDİR 🚨\n🔵 Eğitim amaçlıdır 🔵"
+UYARI_MESAJI = "🚨 YATIRIM TAVSİYESİ DEĞİLDİR 🚨\n🔵 Eğitim amaçlıdır 🔵\n 🚨github.com/earkali🚨 "
 
 def get_stock_data(symbol):
     try:
