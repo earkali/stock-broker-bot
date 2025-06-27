@@ -230,9 +230,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [troubleshooting section](#-troubleshooting)
-2. Search existing [GitHub issues](https://github.com/earkali/PythonProjects/issues)
-3. Create a new issue with detailed description
+1. Search existing [GitHub issues](https://github.com/earkali/stock-broker-bot/issues)
+2. Create a new issue with detailed description
 
 ## ⚠️ Disclaimer
 
